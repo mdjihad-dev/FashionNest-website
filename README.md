@@ -1,8 +1,32 @@
-# React + Vite
+# FashionNest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FashionNest is a React-based fashion website project focused on product presentation, responsive UI, and reusable frontend components.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- JavaScript
+- CSS
+- Font Awesome
+
+## Highlights
+
+- Product-focused interface
+- React component structure
+- Responsive layout
+- Modern visual presentation
+- Reusable UI patterns
+
+## Getting Started
+
+```bash
+git clone https://github.com/mdjihad-dev/FashionNest-website.git
+cd FashionNest-website
+npm install
+npm run dev
+```
+
+## Project Focus
+
+This project was built to practice React component development, responsive UI implementation, and creating a product-oriented frontend experience.
